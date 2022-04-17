@@ -5,9 +5,9 @@ import { FaShoppingCart } from "react-icons/fa";
 
 const StyledHeader = styled.header`
   max-width: 100%;
-  height: 100px;
+  height: 130px;
   background-color: #04b486;
-  padding: 1.5rem 2rem;
+  padding: 0 2rem;
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -26,7 +26,7 @@ const StyledNav = styled.nav`
 `;
 
 const StyledNavLink = styled(NavLink)`
-  color: #4effc4;
+  color: #f0efeb;
   text-decoration: none;
   font-size: 1.4rem;
 
